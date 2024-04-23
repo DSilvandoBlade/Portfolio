@@ -3163,6 +3163,11 @@ textarea.form-control-lg {
   opacity: 0;
 }
 
+.centered-iframe {
+  display: block;
+  margin: 0 auto;
+}
+
 .collapse:not(.show) {
   display: none;
 }
